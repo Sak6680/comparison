@@ -1,4 +1,36 @@
 [{
+    "region": "asia",
+    "code": "in",
+    "country": "India",
+    "now": 3567.552,
+    "gdp-22": 3245.974,
+    "gdp-22-23": 321.578,
+    "now-pc": 2497.188,
+    "gdp-pc-22": 2296.813,
+    "gdp-pc-22-23": 200.375,
+    "nowPPP": 14619.782,
+    "gdpPPP-22": 13219.594,
+    "gdpPPP-22-23": 1400.188,
+    "nowPPP-pc": 10233.445,
+    "gdpPPP-pc-22": 9355.182,
+    "gdpPPP-pc-22-23": 878.263
+},{
+    "region": "asia",
+    "code": "jp",
+    "country": "Japan",
+    "now": 4219.828,
+    "gdp-22": 4369.562,
+    "gdp-22-23": -149.734,
+    "now-pc": 33898.99,
+    "gdp-pc-22": 34938.868,
+    "gdp-pc-22-23": -1039.878,
+    "nowPPP": 6398.275,
+    "gdpPPP-22": 6224.352,
+    "gdpPPP-22-23": 173.923,
+    "nowPPP-pc": 51399.027,
+    "gdpPPP-pc-22": 49738.694,
+    "gdpPPP-pc-22-23": 1660.333
+},{
     "region": "america",
     "code": "us",
     "country": "United States",
@@ -1246,23 +1278,7 @@
     "nowPPP-pc": 78250.289,
     "gdpPPP-pc-22": 77692.534,
     "gdpPPP-pc-22-23": 557.755
-}, {
-    "region": "asia",
-    "code": "in",
-    "country": "India",
-    "now": 3567.552,
-    "gdp-22": 3245.974,
-    "gdp-22-23": 321.578,
-    "now-pc": 2497.188,
-    "gdp-pc-22": 2296.813,
-    "gdp-pc-22-23": 200.375,
-    "nowPPP": 14619.782,
-    "gdpPPP-22": 13219.594,
-    "gdpPPP-22-23": 1400.188,
-    "nowPPP-pc": 10233.445,
-    "gdpPPP-pc-22": 9355.182,
-    "gdpPPP-pc-22-23": 878.263
-}, {
+},  {
     "region": "asia",
     "code": "id",
     "country": "Indonesia",
@@ -1374,23 +1390,7 @@
     "nowPPP-pc": 11856.177,
     "gdpPPP-pc-22": 11429.097,
     "gdpPPP-pc-22-23": 427.08
-}, {
-    "region": "asia",
-    "code": "jp",
-    "country": "Japan",
-    "now": 4219.828,
-    "gdp-22": 4369.562,
-    "gdp-22-23": -149.734,
-    "now-pc": 33898.99,
-    "gdp-pc-22": 34938.868,
-    "gdp-pc-22-23": -1039.878,
-    "nowPPP": 6398.275,
-    "gdpPPP-22": 6224.352,
-    "gdpPPP-22-23": 173.923,
-    "nowPPP-pc": 51399.027,
-    "gdpPPP-pc-22": 49738.694,
-    "gdpPPP-pc-22-23": 1660.333
-}, {
+},  {
     "region": "asia",
     "code": "jo",
     "country": "Jordan",
