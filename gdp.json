@@ -1,21 +1,5 @@
 [{
     "region": "asia",
-    "code": "in",
-    "country": "India",
-    "now": 3567.552,
-    "gdp-22": 3245.974,
-    "gdp-22-23": 321.578,
-    "now-pc": 2497.188,
-    "gdp-pc-22": 2296.813,
-    "gdp-pc-22-23": 200.375,
-    "nowPPP": 14619.782,
-    "gdpPPP-22": 13219.594,
-    "gdpPPP-22-23": 1400.188,
-    "nowPPP-pc": 10233.445,
-    "gdpPPP-pc-22": 9355.182,
-    "gdpPPP-pc-22-23": 878.263
-},{
-    "region": "asia",
     "code": "jp",
     "country": "Japan",
     "now": 4219.828,
@@ -30,6 +14,22 @@
     "nowPPP-pc": 51399.027,
     "gdpPPP-pc-22": 49738.694,
     "gdpPPP-pc-22-23": 1660.333
+},{
+    "region": "asia",
+    "code": "in",
+    "country": "India",
+    "now": 3567.552,
+    "gdp-22": 3245.974,
+    "gdp-22-23": 321.578,
+    "now-pc": 2497.188,
+    "gdp-pc-22": 2296.813,
+    "gdp-pc-22-23": 200.375,
+    "nowPPP": 14619.782,
+    "gdpPPP-22": 13219.594,
+    "gdpPPP-22-23": 1400.188,
+    "nowPPP-pc": 10233.445,
+    "gdpPPP-pc-22": 9355.182,
+    "gdpPPP-pc-22-23": 878.263
 },{
     "region": "america",
     "code": "us",
