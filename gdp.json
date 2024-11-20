@@ -1,20 +1,4 @@
-[{
-    "region": "asia",
-    "code": "vn",
-    "country": "Vietnam",
-    "now": 433.702,
-    "gdp-22": 398.919,
-    "gdp-22-23": 34.783,
-    "now-pc": 4324.049,
-    "gdp-pc-22": 3999.044,
-    "gdp-pc-22-23": 325.005,
-    "nowPPP": 1502.664,
-    "gdpPPP-22": 1373.532,
-    "gdpPPP-22-23": 129.132,
-    "nowPPP-pc": 14981.697,
-    "gdpPPP-pc-22": 13770.126,
-    "gdpPPP-pc-22-23": 1211.571
-},  {
+[ {
     "region": "asia",
     "code": "th",
     "country": "Thailand",
@@ -31,6 +15,22 @@
     "gdpPPP-pc-22": 22750.645,
     "gdpPPP-pc-22-23": 1230.562
 },{
+    "region": "asia",
+    "code": "vn",
+    "country": "Vietnam",
+    "now": 433.702,
+    "gdp-22": 398.919,
+    "gdp-22-23": 34.783,
+    "now-pc": 4324.049,
+    "gdp-pc-22": 3999.044,
+    "gdp-pc-22-23": 325.005,
+    "nowPPP": 1502.664,
+    "gdpPPP-22": 1373.532,
+    "gdpPPP-22-23": 129.132,
+    "nowPPP-pc": 14981.697,
+    "gdpPPP-pc-22": 13770.126,
+    "gdpPPP-pc-22-23": 1211.571
+}, {
     "region": "asia",
     "code": "jp",
     "country": "Japan",
